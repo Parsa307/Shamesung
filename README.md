@@ -14,7 +14,7 @@ This project aims to help users reclaim control over their Samsung devices. If y
 
 Samsung has taken several controversial steps to restrict user freedom:
 
-- **Knox tripping:** Rooting or unlocking your device permanently disables certain security features.
+- **Knox tripping:** Rooting your device permanently disables certain security features.
 - **Bootloader cannot be unlocked in One UI 8.0:** Users cannot unlock the bootloader on newer versions.
 - **Camera disabling:** In the past, Samsung disabled cameras on devices with unlocked bootloaders.  
   - [Case 1: Galaxy Z Fold 3 cameras](https://www.xda-developers.com/bootloader-unlocking-no-longer-kills-galaxy-z-fold-3-cameras)
