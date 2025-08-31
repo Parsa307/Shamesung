@@ -5,7 +5,7 @@ To fight back we are gonna root if you have Samsung One UI 7.0 or older. and you
 
 We could fight back.
 
-[Unlocking the Bootloader](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/misc/samsung-unlock.md)
+[Unlocking the Bootloader on Samsung](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/misc/samsung-unlock.md)
 
 ## Freedom
 - [Magisk Installation on Samsung](https://topjohnwu.github.io/Magisk/install.html#samsung-devices)
@@ -14,4 +14,4 @@ We could fight back.
 ## Shady Practices
 - Samsung trips your Knox.
 - Samsung removes the ability to unlock the Bootloader in Samsung One UI 8.0
-- Samsung in the past disabled users cameras [Case 1](https://www.xda-developers.com/bootloader-unlocking-no-longer-kills-galaxy-z-fold-3-cameras) [Case 2](https://www.xda-developers.com/samsung-galaxy-s22-bootloader-unlock-camera-working)
+- Samsung in the past disabled users cameras [Case 1](https://www.xda-developers.com/bootloader-unlocking-no-longer-kills-galaxy-z-fold-3-cameras),[Case 2](https://www.xda-developers.com/samsung-galaxy-s22-bootloader-unlock-camera-working)
