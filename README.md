@@ -8,7 +8,7 @@ This project aims to help users reclaim control over their Samsung devices. If y
 
 - [How to Unlock the Bootloader on Samsung](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/misc/samsung-unlock.md)
 - [Magisk: Root Your Samsung Device](https://topjohnwu.github.io/Magisk/install.html#samsung-devices)
-- [PlayIntegrityFork: Spoofs "Phone status" to Official](https://github.com/osm0sis/PlayIntegrityFork)
+- [PlayIntegrityFork: Spoof "Phone status" to Official](https://github.com/osm0sis/PlayIntegrityFork)
 - [KnoxPatch: Bypass Samsung's Restrictions](https://github.com/salvogiangri/KnoxPatch)
 
 ## Shady Practices
