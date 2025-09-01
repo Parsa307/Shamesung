@@ -19,6 +19,7 @@ Samsung has taken several controversial steps to restrict user freedom:
 
 - **Knox tripping:** Rooting your device permanently disables most of the Samsung features.
 - **Bootloader cannot be unlocked in One UI 8.0:** Users cannot unlock the bootloader on newer versions.
+- **No VoLTE on Custom ROMs:** Samsung's IMS service is not compatible with AOSP's, so VoLTE will not work on GSI ROMs.
 - **Camera disabling:** In the past, Samsung disabled cameras on devices with unlocked bootloaders.
   - [Case 1: Galaxy Z Fold 3 cameras](https://www.xda-developers.com/bootloader-unlocking-no-longer-kills-galaxy-z-fold-3-cameras)
   - [Case 2: Galaxy S22 cameras](https://www.xda-developers.com/samsung-galaxy-s22-bootloader-unlock-camera-working)
