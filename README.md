@@ -7,6 +7,8 @@ This project aims to help users reclaim control over their Samsung devices. If y
 ## Take Back Control
 
 - [How to Unlock the Bootloader on Samsung](https://github.com/melontini/bootloader-unlock-wall-of-shame/blob/main/misc/samsung-unlock.md)
+- [Odin3: Flasher tool for Windows](https://xdaforums.com/t/patched-odin-3-13-1.3762572)
+- [Odin4: Flasher tool for Linux](https://xdaforums.com/t/official-samsung-odin-v4-1-2-1-dc05e3ea-for-linux.4453423)
 - [Magisk: Root Your Samsung Device](https://topjohnwu.github.io/Magisk/install.html#samsung-devices)
 - [PlayIntegrityFork: Spoof "Phone status" to Official](https://github.com/osm0sis/PlayIntegrityFork)
 - [KnoxPatch: Bypass Samsung's Restrictions](https://github.com/salvogiangri/KnoxPatch)
