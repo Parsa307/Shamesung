@@ -19,7 +19,7 @@ This project aims to help users reclaim control over their Samsung devices. If y
 Samsung has taken several controversial steps to restrict user freedom:
 
 - Knox Warranty Bit tripping: Rooting your device **WILL** trip your Knox Warranty Bit, this action is not reversible in any way.
-- Bootloader cannot be unlocked in One UI 8.0: Users cannot unlock the bootloader on newer versions.
+- Bootloader cannot be unlocked in Newer Versions: Users cannot unlock the bootloader starting from Samsung One UI 8.0.
 - No VoLTE on Custom ROMs: Samsung's IMS service is not compatible with AOSP's, so VoLTE will not work on GSI ROMs.
 - Camera disabling: In the past, Samsung disabled cameras on devices with unlocked bootloaders.
   - [Case 1: Galaxy Z Fold 3 cameras](https://www.xda-developers.com/bootloader-unlocking-no-longer-kills-galaxy-z-fold-3-cameras)
