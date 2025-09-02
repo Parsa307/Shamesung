@@ -16,7 +16,7 @@ This project aims to help users reclaim control over their Samsung devices. If y
 
 ## Shady Practices
 
-Samsung has taken several controversial steps to restrict user freedom:
+Samsung has taken steps to restrict user freedom:
 
 - Knox Warranty Bit tripping: Rooting your device **WILL** trip your Knox Warranty Bit, this action is not reversible in any way.
 - Bootloader cannot be unlocked in Newer Versions: Users cannot unlock the bootloader starting from Samsung One UI 8.0.
