@@ -12,7 +12,7 @@ This project aims to help users reclaim control over their Samsung devices. If y
 - [Magisk: Root Your Samsung Device](https://topjohnwu.github.io/Magisk/install.html#samsung-devices)
 - [BluetoothLibraryPatcher: This module attends to avoid losing Bluetooth pairings after reboot or airplane mode switch on rooted Samsung devices](https://github.com/3arthur6/BluetoothLibraryPatcher)
 - [PlayIntegrityFork: Spoof "Phone status" to Official](https://github.com/osm0sis/PlayIntegrityFork)
-- [KnoxPatch: An LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.](https://github.com/salvogiangri/KnoxPatch)
+- [KnoxPatch: An LSPosed module to get Samsung apps/features working again in your rooted Galaxy device](https://github.com/salvogiangri/KnoxPatch)
 
 ## Shady Practices
 
